@@ -1,4 +1,4 @@
-##Ejercicios: Métodos de arreglo
+## Ejercicios: Métodos de arreglo
 No se puede:
 
 - Usar el método .forEach , .map , .reduce, filter.
@@ -30,7 +30,7 @@ function miFilter(arreglo, filter){
 function miReduce(arreglo, reduce){
 }
 
-####*Bonus:*
+#### *Bonus:*
 
 1.- Crea tu propia función sort que funcione igual a Array.sort. Algo asi:
 
